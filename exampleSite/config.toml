@@ -4,7 +4,7 @@ baseURL = "https://examplesite.com/"
 # theme
 theme = "dot-hugo"
 # site title
-title = "Dot"
+title = "Academy42"
 # disable language
 disableLanguages = []
 # google analytics
