@@ -108,25 +108,25 @@ weight = 3
 # Dropdown menu
 [[Languages.en.menu.main]]
 weight = 4
-name = "docs"
+name = "courses"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "courses"
   name = "Operations"
   url = "Operations"
   weight = 1
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "courses"
   name = "Engineering"
   url = "engineering"
   weight = 2
 
   [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Features"
-  url = "features"
+  parent = "courses"
+  name = "Updates"
+  url = "updates"
   weight = 3
 
 
@@ -175,23 +175,23 @@ weight = 3
 # Dropdown menu
 [[Languages.fr.menu.main]]
 weight = 4
-name = "docs"
+name = "courses"
 hasChildren = true
 
   [[Languages.fr.menu.main]]
-  parent = "docs"
-  name = "Installation"
-  url = "installation"
+  parent = "courses"
+  name = "Operations"
+  url = "operations"
   weight = 1
 
   [[Languages.fr.menu.main]]
-  parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
+  parent = "courses"
+  name = "Engineering"
+  url = "engineering"
   weight = 2
 
   [[Languages.fr.menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features"
+  name = "Updates"
+  url = "updates"
   weight = 3
