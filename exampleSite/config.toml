@@ -115,6 +115,7 @@ hasChildren = true
   parent = "courses"
   name = "Operations"
   url = "operations"
+  
   weight = 1
 
   [[Languages.en.menu.main]]
