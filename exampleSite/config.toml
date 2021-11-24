@@ -51,7 +51,7 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 name = "Twitter"
-link = "#"
+link = "https://twitter.com/james_rivers"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
