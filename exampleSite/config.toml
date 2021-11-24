@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "https://academy42.netlify.app/"
 # theme
 theme = "dot-hugo"
 # site title
