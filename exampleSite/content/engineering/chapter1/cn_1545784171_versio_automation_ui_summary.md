@@ -1,5 +1,7 @@
 ---
 title: "Chapter 1 mod 1"
+reference: cn_1545784171_versio_automation_ui_summary
+author: "James Rivers"  
 date: 2018-12-29T11:02:05+06:00
 lastmod: 2020-01-05T10:42:26+06:00
 weight: 3
