@@ -16,4 +16,4 @@ The Versio Automation has a number of pages, this is the single vertical channel
 ![](attachments/Pasted%20image%2020210811144157.png)
 
 This is the Automation splash screen 
-![](Pasted%20image%2020210811144157.png)
+![](../Pasted%20image%2020210811144157.png)
