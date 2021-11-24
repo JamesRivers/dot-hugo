@@ -4,7 +4,7 @@ baseURL = "https://academy42.netlify.app/"
 # theme
 theme = "dot-hugo"
 # site title
-title = "Academy42"
+title = "academy-42"
 # disable language
 disableLanguages = []
 # google analytics
@@ -75,7 +75,7 @@ copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethu
 title = "Searching for something...?"
 subtitle = "Find answers and notes from the archives... or get in touch"
 bg_image = "images/banner.jpg"
-placeholder = "Have a question? Just ask here or enter terms"
+placeholder = "Have a question? What is the answer to life, everything?"
 
 # call to action
 [Languages.en.params.cta]
